@@ -10,4 +10,6 @@ git branch -M main
 git push -u origin main
 
 touch config/.gitkeep
+git add .
+git commit -m "ajout de nouveau dossier"
 
