@@ -9,3 +9,5 @@ git remote add origin https://github.com/aigleroyale/etl_mysql.git
 git branch -M main
 git push -u origin main
 
+touch config/.gitkeep
+
